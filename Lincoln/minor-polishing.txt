@@ -1,1 +1,4 @@
+1. Further argument for heat dissipation analysis:
 Launched by Lenovo in 2023, the Legion 9i laptop is equipped with an internally integrated liquid cooling system and supports 230W TDP, which is much higher than Lincoln's whole-system power.
+
+2. "Thus" in Section V.D be changed to "Considering this and other factors' possible deviations".
